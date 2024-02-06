@@ -1,5 +1,5 @@
 
-# Hi, I'm Luigi Miranda ✋
+# Hi, I'm Luigi Miranda 👋
 
 A passionate developer from Italy
 
