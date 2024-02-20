@@ -1,4 +1,13 @@
-<meta name="google-site-verification" content="X7_v_5E3yeXDQA585Ypd9ddrkIWQZ9vX7SCH2bTf00c" />
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="google-site-verification" content="X7_v_5E3yeXDQA585Ypd9ddrkIWQZ9vX7SCH2bTf00c" />
+  </head>
+  <body>
+  </body>
+</html>
+
 
 # Hi, I'm Luigi Miranda 👋
 
