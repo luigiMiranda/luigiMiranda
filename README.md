@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="X7_v_5E3yeXDQA585Ypd9ddrkIWQZ9vX7SCH2bTf00c" />
 
 # Hi, I'm Luigi Miranda 👋
 
